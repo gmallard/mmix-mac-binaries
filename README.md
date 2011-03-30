@@ -15,7 +15,7 @@ A rough outline of my procedure:
 
 * Build tools are from Xcode 4.  Install that first.
 * Install cweb and ctangle.  Get the source from literateprogramming.com.  Read the README carefully and follow instructions.
-* Put the cweb/ctangle binaries in your PATH.
+* Put the cweave/ctangle binaries in your PATH.
 * Get the MMIX source code. http://www-cs-faculty.stanford.edu/~uno/mmix-news.html.
 * Follow the intructions in the README.
 
