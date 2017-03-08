@@ -3,6 +3,16 @@
 If you are interested in MMIX, work with a recent Mac, but can not build
 the runtime executables, here they are.
 
+### Latest Build Environment
+
+The latest build is from the 2016/08/04 MMIX update.
+
+Build environment is:
+
+    ProductName:    Mac OS X
+    ProductVersion: 10.12.3
+    BuildVersion:   16D32
+
 ### Build Environment
 
 Built on a very new Mac at the time of publishing, 10.7.1 out of the box.  Info - uname -a shows:
